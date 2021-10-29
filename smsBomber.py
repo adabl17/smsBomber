@@ -24,8 +24,8 @@ print(f'''{purple}
 ⠄⠄⠄⢀⣾⣾⣿⣤⣯⣿⣿⡿⠃⠄⠄⠄⠄⠄.. 
 ''')
 print(f"{red}===========================================")
-print(f"{yellow}  sorosh+ channel: @hakeryy          ")
-print(f"{yellow}  sorosh+ me: @adabl          ")
+print(f"{yellow}  rubika channel: @ekiploper          ")
+print(f"{yellow}  rubika me: @ad_a_bl          ")
 print(f"{red}===========================================")
 print(f"{white} [1]"+ f"{blue} start")
 print(f"{white} [2]"+ f"{blue} exit")
